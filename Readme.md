@@ -1,6 +1,6 @@
 # IGRA txt to csv parser
 Script to parse `txt` file from IGRA format to csv format.
-File with aerologic data downloading from [](https://www.ncei.noaa.gov/pub/data/igra/data/)
+File with aerologic data downloading from [this](https://www.ncei.noaa.gov/pub/data/igra/data/)
 
 # Usage
 ```
